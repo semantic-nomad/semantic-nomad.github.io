@@ -1,11 +1,11 @@
 github_users:
-  - brandonnodnarb
   - semantic-nomad
 
 repo_description_lines_max: 2
 
 github_repos:
   - ktoddbrown/SoilDRaH
-  - brandonnodnarb/GCMD-E
+  - semantic-nomad/GCMD-E
+  - semantic-nomad/SoilVoc
   - ESIPFed/sweet
   - eartharxiv/eartharxiv.github.io
