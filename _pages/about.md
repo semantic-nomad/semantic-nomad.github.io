@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Massey University campus</p>
-    <p>Papeioia Palmerston North, Manawatū</p>
+    <p>Te Papeioia Palmerston North, Manawatū</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -29,6 +29,5 @@ latest_posts:
 I am an Environmental Data Scientist within the [Manaaki Whenua](https://www.landcareresearch.co.nz/) group at the newly minted [Bioeconomy Science Institute](https://www.bioeconomyscience.co.nz/) in Aotearoa New Zealand. My research involves building vocabularies for data interoperability as well as richer semantic models intending to reflect aspects of domain knowledge. I am passionate about capturing and applying rich Earth and environmental domain models for machine aided reasoning and discovery.
 
 I feel oddly compelled to increase the utility of the [SWEET ontology](http://sweetontology.net).
-
 
 This site is a work in progress.
